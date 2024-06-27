@@ -1,0 +1,445 @@
+rxn,uniprot,min,max,mean,mode
+Cytidine kinase (GTP) (No1),P0A8F4,0.0007,294.6772,16.27695918367347,0.0395
+Xanthine phosphoribosyltransferase (No1),P0A9M5,0.0027,142.7712,8.250802681992337,6.1767
+Nucleoside-diphosphate kinase (ATP:dGDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:dGDP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Nucleoside-diphosphate kinase (ATP:dUDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:dUDP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Nucleoside-diphosphate kinase (ATP:dADP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:dADP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Dihydroorotase (No1),P05020,0.6033,1568.7983,57.27069149560117,42.3714
+Orotidine-5'-phosphate decarboxylase (No1),P08244,0.0546,56.4708,4.517989735099338,5.2555
+Glutamate-5-semialdehyde dehydrogenase (No1),P07004,0.4392,109.9787,15.888399696969698,4.5116
+Isocitrate dehydrogenase (NADP) (No1),P08200,0.41,16.956,4.630026530612245,1.4882
+Deoxyuridine phosphorylase (arm),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Acetaldehyde dehydrogenase (acetylating) (arm),P0A9Q7,1.5975,423.9412,48.159901461988305,153.78
+Acetyl-CoA synthetase (No1),P27550,0.3015,248.4744,7.9450186588921285,1.2496
+Inorganic diphosphatase (arm),P0A7A9,0.0198,811.1672,58.62161906158358,23.5401
+Phosphoenolpyruvate carboxykinase (No1),P22259,0.6177,15.8533,3.2313483483483485,3.6538
+Malic enzyme (NAD) (No1),P26616,0.9231,80.9824,12.137343154761904,8.6443
+"3,4-Dihydroxy-2-butanone-4-phosphate synthase (No1)",P0A7J0,0.0063,219.9427,11.853605151515152,5.9156
+Riboflavin kinase (No1),P0AG40,0.005,228.639,11.955232492113565,1.2158
+L-alanine transaminase (arm),P0A959,0.3605,789.6688,28.188415497076022,1.2496
+L-alanine transaminase (arm),P77434,0.3605,789.6688,28.188415497076022,1.2496
+Xylulokinase (arm),P09099,0.4351,120.1307,7.33904213836478,1.0766
+Ribokinase (No1),P0A9J6,0.4454,602.1672,31.11611388888889,13.5636
+Glycerol kinase (No1),P0A6F3,0.0844,147.5612,10.481532817337461,26.3181
+Phosphopentomutase (No1),P0A6K6,0.0502,289.0491,13.01314501510574,24.6256
+Aspartate transaminase (arm),P00509,0.2353,404.5081,32.654065789473684,1.8152
+Pyruvate kinase (arm),P21599,1.0423,196.9557,13.709659064327486,13.5766
+Pyruvate kinase (arm),P0AD61,1.0423,196.9557,13.709659064327486,13.5766
+Isoleucine transaminase (No1),P0AB80,0.1726,1372.4563,33.607326865671645,1.2496
+Valine transaminase (No1),P0AB80,0.1726,1372.4563,33.607326865671645,1.2496
+2-isopropylmalate hydratase (No1),P30126,0.2601,295.4556,19.150610787172013,1.2496
+2-isopropylmalate hydratase (No1),P0A6A6,0.2601,295.4556,19.150610787172013,1.2496
+Orotate phosphoribosyltransferase (No1),P0A7E3,0.0076,109.1387,5.263071386430679,0.0432
+Riboflavin synthase (No1),P61714,0.2383,2866.0348,133.41579858657244,35.8491
+2-aceto-2-hydroxybutanoate synthase (arm),P0ADF8,0.7002,81.4071,8.98248833819242,1.2496
+2-aceto-2-hydroxybutanoate synthase (arm),P08142,0.7002,81.4071,8.98248833819242,1.2496
+2-aceto-2-hydroxybutanoate synthase (arm),P00893,0.7002,81.4071,8.98248833819242,1.2496
+2-aceto-2-hydroxybutanoate synthase (arm),P00894,0.7002,81.4071,8.98248833819242,1.2496
+Phosphofructokinase (s7p) (No1),P0A796,0.7196,77.6619,11.52077026239067,6.8492
+"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate) (No1)",P05791,0.0475,17.5287,2.9999955489614245,1.737
+Acetolactate synthase (arm),P00893,0.7002,81.4071,8.98248833819242,1.2496
+Acetolactate synthase (arm),P00894,0.7002,81.4071,8.98248833819242,1.2496
+Acetolactate synthase (arm),P0ADF8,0.7002,81.4071,8.98248833819242,1.2496
+Acetolactate synthase (arm),P08142,0.7002,81.4071,8.98248833819242,1.2496
+Glycerol-3-phosphate dehydrogenase (ubiquinone-8) (arm),P13033,0.3486,147.6574,15.154511006289308,26.9046
+Glycerol-3-phosphate dehydrogenase (ubiquinone-8) (arm),P0A9C0,0.3486,147.6574,15.154511006289308,26.9046
+Glycerol-3-phosphate dehydrogenase (ubiquinone-8) (arm),P13035,0.3486,147.6574,15.154511006289308,26.9046
+Anthranilate synthase (No1),P00904,1.4633,2.7343,2.0988,2.7343
+Anthranilate synthase (No1),P00895,0.2542,57.5879,6.9273140762463346,2.2807
+Anthranilate phosphoribosyltransferase (No1),P00904,0.0084,158.8876,9.016720625,1.4882
+Chorismate mutase (arm),P0A9J8,0.013,484.7082,19.862473475609757,38.9
+Chorismate mutase (arm),P07023,0.013,484.7082,19.862473475609757,38.9
+Leucine transaminase (irreversible) (arm),P0AB80,0.1235,212.2721,7.69320447761194,8.9859
+Dimethylallyltranstransferase (No1),P22939,0.0673,103.46,4.738608504398827,1.4882
+Geranyltranstransferase (No1),P22939,0.0409,6.5056,0.7482436950146627,1.4882
+Uroporphyrinogen-III synthase (No1),P09126,0.017,63.971,4.705717747440273,0.1695
+Uroporphyrinogen decarboxylase (uroporphyrinogen III) (No1),P29680,0.0442,23.0511,3.2855463343108506,1.4882
+Enolase (No1),P0A6P9,1.1263,178.5623,24.76994548104956,19.6763
+HCO3 equilibration reaction (arm),P61517,0.2085,1799812.4293,10115.005795575222,958.6925
+HCO3 equilibration reaction (arm),P0ABE9,0.2085,1799812.4293,10115.005795575222,958.6925
+IMP dehydrogenase (No1),P0ADG7,0.0412,34.642,3.1976008746355684,0.7059
+Glutamyl-tRNA synthetase (No1),P04805,0.0901,54.7968,3.5236679300291547,2.2842
+Phosphoglycerate kinase (No1),P0A799,2.0959,128.5199,22.22114210526316,15.1088
+Uridine kinase  ATPUridine  (No1),P0A8F4,0.0529,69.1685,7.1037679300291545,10.0495
+Uridine kinase (GTP:Uridine) (No1),P0A8F4,0.0007,294.6772,16.27695918367347,0.0395
+ATP:cytidine 5'-phosphotransferase (No1),P0A8F4,0.0529,69.1685,7.1037679300291545,10.0495
+Ribulose 5-phosphate 3-epimerase (No1),P0AG07,0.7176,36659.9867,991.1025135294118,199.2753
+3-isopropylmalate dehydrogenase (arm),P30125,0.2108,68.4437,11.12412055214724,10.7233
+Purine-nucleoside phosphorylase (Adenosine) (No1),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Deoxyadenosine) (No1),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Guanosine) (arm),P45563,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Guanosine) (arm),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Transketolase (arm),P27302,0.1374,33.8383,3.3207708454810496,2.1901
+Transketolase (arm),P33570,0.1374,33.8383,3.3207708454810496,2.1901
+Purine-nucleoside phosphorylase (Inosine) (arm),P45563,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Inosine) (arm),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Deoxyinosine) (arm),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Deoxyinosine) (arm),P45563,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Xanthosine) (No1),P45563,0.0442,717.2721,29.9427734375,1.2424
+Ribonucleoside-diphosphate reductase (ADP) (arm),P00452,0.4622,138.5594,16.593620408163265,2.9875
+Ribonucleoside-diphosphate reductase (ADP) (arm),P69924,0.4622,138.5594,16.593620408163265,2.9875
+Alcohol dehydrogenase (ethanol) (arm),P0A9Q7,1.5975,423.9412,48.159901461988305,153.78
+Alcohol dehydrogenase (ethanol) (arm),P39451,1.5975,423.9412,48.159901461988305,153.78
+Ribonucleoside-diphosphate reductase (CDP) (arm),P00452,0.1335,170.7624,20.497913702623908,3.5997
+Ribonucleoside-diphosphate reductase (CDP) (arm),P69924,0.1335,170.7624,20.497913702623908,3.5997
+Thymidylate synthase (No1),P0A884,0.006,170.3816,15.969664516129033,3.0697
+Glycerol-3-phosphate dehydrogenase (demethylmenaquinone-8) (No1),P13033,0.3486,147.6574,15.154511006289308,26.9046
+Glycerol-3-phosphate dehydrogenase (demethylmenaquinone-8) (No1),P0A9C0,0.3486,147.6574,15.154511006289308,26.9046
+NADH dehydrogenase (demethylmenaquinone-8 & 0 protons) (arm),P00393,0.1196,206.8358,15.684690379008746,33.4991
+NADH dehydrogenase (menaquinone-8 & 0 protons) (arm),P00393,0.1196,206.8358,15.684690379008746,33.4991
+Malate dehydrogenase (No1),P61889,2.1583,1526.8389,88.05074810495627,7.5333
+4-aminobutyrate transaminase (arm),P22256,0.1777,335.7137,24.6308006006006,1.2496
+4-aminobutyrate transaminase (arm),P50457,0.1777,335.7137,24.6308006006006,1.2496
+FMN adenylyltransferase (No1),P0AG40,0.005,228.639,11.955232492113565,1.2158
+Pyridoxine kinase (No1),P40191,0.0816,197.6304,12.408079636363636,1.4996
+Pyridoxamine 5'-phosphate oxidase (No1),P0AFI7,0.0477,1797.3362,78.76223250773994,0.4472
+Succinate-semialdehyde dehydrogenase (NAD) (No1),P76149,0.1945,107.5991,11.262557522123894,1.4882
+NAD diphosphatase (arm),P32664,0.0004,42.4185,3.7247869281045753,1.4882
+L-threonine dehydrogenase (arm),P37686,1.5975,423.9412,48.159901461988305,153.78
+Nicotinamide-nucleotide adenylyltransferase (arm),P27278,0.0127,315.4258,20.86781424148607,79.5053
+Hydroxymethylpyrimidine kinase (ATP) (arm),P40191,0.1284,205.3623,16.06322393442623,7.6802
+Acetyl-CoA carboxylase (No1),P24182,1.9937,24.4259,5.71592606060606,5.4502
+NAD kinase (No1),P0A7B3,0.0352,35.7059,3.5301240384615387,1.4882
+Glycogen phosphorylase (arm),P0AC86,0.118,50.0335,4.987047076923077,1.6835
+Glycogen phosphorylase (arm),P00490,0.118,50.0335,4.987047076923077,1.6835
+Adenosylmethionine decarboxylase (No1),P0A7F6,0.0186,89.5479,5.073400615384616,1.4882
+Lactoylglutathione lyase (No1),P0AC81,0.623,5667.4458,239.62625807453415,250.91
+Argininosuccinate synthase (No1),P0A6E4,0.0811,57.3527,8.049649560117302,7.1466
+Isocitrate lyase (No1),P0A9G6,1.5071,472.8093,54.79010449101796,80.7777
+UDP-N-acetylglucosamine diphosphorylase (No1),P0ACC7,0.0453,44.5937,3.7705339449541286,1.4882
+Glycine Cleavage System (No1),P33195,0.3079,127.9099,5.23126160990712,2.7084
+Glycine Cleavage System (No1),P0A9P0,0.3471,374.1807,32.66308746355685,25.7417
+Glycine Cleavage System (No1),P27248,0.3307,94.0745,10.18477205882353,4.0214
+Nicotinate-nucleotide diphosphorylase (carboxylating) (No1),P30011,0.0084,4233.2059,20.260257654723127,4.2744
+Homocysteine S-methyltransferase (No1),Q47690,0.0459,97.1429,7.916022957198444,7.0039
+Pyridoxal kinase (arm),P40191,0.1284,205.3623,18.662277380952382,7.6802
+Pyridoxal kinase (arm),P77150,0.1284,205.3623,18.662277380952382,7.6802
+Pantetheine-phosphate adenylyltransferase (No1),P0A6I6,0.0308,341.317,10.39463746130031,5.8051
+GTP cyclohydrolase II (25drapp) (No1),P0A7I7,0.0317,175.6034,8.608882991202346,0.6558
+Sulfate adenyltransferase (No1),P21156,0.2508,83.5203,8.636474777448072,6.2373
+Sulfate adenyltransferase (No1),P23845,0.2508,83.5203,8.636474777448072,6.2373
+Alcohol dehydrogenase (glycerol) (arm),P39451,0.8556,1213.9144,120.21673801169591,458.7321
+Alcohol dehydrogenase (glycerol) (arm),P0A9Q7,0.8556,1213.9144,120.21673801169591,458.7321
+Phosphofructokinase (No1),P0A796,0.7196,77.6619,11.52077026239067,6.8492
+4-amino-4-deoxychorismate synthase (No1),P05041,0.1142,36.5914,4.13140118694362,2.3146
+4-amino-4-deoxychorismate synthase (No1),P00903,0.1142,36.5914,4.13140118694362,2.3146
+4-aminobenzoate synthase (arm),P28305,0.1339,198.6323,6.223055483870968,2.7725
+Glycerol-3-phosphate dehydrogenase (menaquinone-8) (No1),P13033,0.3486,147.6574,15.154511006289308,26.9046
+Glycerol-3-phosphate dehydrogenase (menaquinone-8) (No1),P0A9C0,0.3486,147.6574,15.154511006289308,26.9046
+Uracil phosphoribosyltransferase (No1),P0A8F0,0.0092,25.6769,2.457596989966555,1.4882
+CTP synthase (glutamine) (No1),P0A7E5,0.2769,734.7845,68.94884606413994,1.2496
+Nucleoside-diphosphate kinase (ATP:dCDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:dCDP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Adenine phosphoribosyltransferase (No1),P69503,0.0368,308.9621,20.017924852071005,13.2619
+Adenylate kinase (No1),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:UDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:UDP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Nucleoside-diphosphate kinase (ATP:CDP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Nucleoside-diphosphate kinase (ATP:CDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:dTDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:dTDP) (arm),P0A763,0.0143,378.0148,37.671582716049386,13.0904
+Adenine deaminase (No1),P31441,0.0997,204.4766,23.331839245283017,101.1384
+Hydroxybenzoate octaprenyltransferase (No1),P0AGK1,0.0012,560.7138,15.64443649851632,1.2496
+Pantothenate kinase (No1),P0A6I3,0.0061,180.0775,6.789280882352941,10.1957
+Adenylosuccinate synthase (No1),P0A7D4,0.2911,198.9438,10.031379472140763,2.752
+Dephospho-CoA kinase (No1),P0A6I9,0.0144,494.1535,16.07779371257485,0.1357
+Asparagine synthetase (arm),P22106,0.3864,102.2704,6.900088888888889,1.4939
+Homoserine kinase (No1),P00547,0.0674,62.0165,6.665857232704402,5.966
+Succinyldiaminopimelate transaminase (arm),P50457,0.1777,335.7137,24.6308006006006,1.2496
+Succinyldiaminopimelate transaminase (arm),P22256,0.1777,335.7137,24.6308006006006,1.2496
+Threonine synthase (No1),P00934,0.4436,129.7179,10.114002046783625,4.8509
+Deoxyguanylate kinase (dGMP:ATP) (No1),P60546,0.0922,700.7903,66.00422573099415,200.967
+DTMP kinase (No1),P0A720,0.0151,2124.3965,46.14264789156626,4.323
+Nucleoside-diphosphate kinase (ATP:GDP) (arm),P69441,0.013,560.9395,32.45506326530612,25.1469
+Nucleoside-diphosphate kinase (ATP:GDP) (arm),P0A763,0.0346,618.3119,56.03250740740741,13.8417
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase (arm),P00888,0.0306,39.73,3.4581553935860057,2.0123
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase (arm),P0AB91,0.0306,39.73,3.4581553935860057,2.0123
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase (arm),P00887,0.0306,39.73,3.4581553935860057,2.0123
+Nicotinamidase (No1),P21369,0.0018,70.506,0.6610912337662338,0.0059
+1-pyrroline-5-carboxylate dehydrogenase (No1),P09546,0.0634,49.1588,5.039833137829912,1.4882
+Malate synthase (arm),P08997,0.234,62.1075,6.704522580645161,3.2364
+Malate synthase (arm),P37330,0.234,62.1075,6.704522580645161,3.2364
+Trehalose-phosphatase (No1),P31678,0.0336,103.5204,11.861220760233918,19.2464
+GMP synthase (No1),P04079,0.7684,54.5907,5.558463929618768,2.856
+Acetate-CoA ligase (ADP-forming) (arm),P27550,0.3015,248.4744,7.9450186588921285,1.2496
+UTP-glucose-1-phosphate uridylyltransferase (irreversible) (No1),P0AEP3,0.0768,42.4221,4.0281280701754385,1.6163
+Nucleoside triphosphate pyrophosphorylase (dttp) (arm),P52006,0.0225,201.608,17.65529347826087,9.4234
+Nucleoside triphosphate pyrophosphorylase (dttp) (arm),P25536,0.0225,201.608,17.65529347826087,9.4234
+Pyrroline-5-carboxylate reductase (No1),P0A9L8,0.011,158.7175,11.291515548780488,1.2496
+2-Oxogluterate dehydrogenase (No1),P0AFG6,0.0524,150.3526,4.43402973760933,2.1505
+2-Oxogluterate dehydrogenase (No1),P0A9P0,0.3471,374.1807,32.66308746355685,25.7417
+2-Oxogluterate dehydrogenase (No1),P0AFG3,0.0359,20.5592,5.8901944606414,2.8429
+Deoxycytidine deaminase (No1),P0ABF6,0.0041,393.777,24.24152431372549,0.021
+Dethiobiotin synthase (No1),P13000,0.297,788.9848,90.559204,0.3891
+ATP phosphoribosyltransferase (No1),P60757,0.0499,33.6088,4.450081972789116,2.9716
+Cytosine deaminase (No1),P25524,0.0153,33601.7151,260.16444893617023,312.3645
+Glutamine-fructose-6-phosphate transaminase (No1),P17169,0.0362,16.6312,1.0305615160349855,0.3797
+Imidazoleglycerol-phosphate dehydratase (No1),P06987,0.0487,382.144,13.446768072289156,21.2133
+Phosphoribosylpyrophosphate synthetase (No1),P0A717,0.065,44.0278,6.330737900874635,2.6435
+Gamma-glutamylcysteine synthetase (No1),P0A6W9,0.5006,60.0434,5.85277994100295,2.8134
+Glutaminase (arm),P77454,2.5065,153.8182,21.173682595870208,27.3017
+Glutaminase (arm),P0A6W0,2.5065,153.8182,21.173682595870208,27.3017
+Glutaminase (No1),P77454,2.5065,153.8182,21.173682595870208,27.3017
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase (No1),P10371,0.1119,89.1162,7.180692352941176,1.4882
+Glutamine phosphoribosyldiphosphate amidotransferase (No1),P0AG16,0.3697,107.446,11.623954599406527,51.2623
+Cysteine synthase (arm),P16703,0.3642,809.8241,49.5152367781155,1.2496
+Cysteine synthase (arm),P0ABK5,0.3642,809.8241,49.5152367781155,1.2496
+"3',5'-bisphosphate nucleotidase (No1)",P22255,0.083,173.5025,22.61877878787879,0.9488
+Aspartate kinase (arm),P00561,0.0534,122.5027,8.536783333333334,3.8693
+Aspartate kinase (arm),P00562,0.0534,122.5027,8.536783333333334,3.8693
+Aspartate kinase (arm),P08660,0.0534,122.5027,8.536783333333334,3.8693
+Ornithine carbamoyltransferase (arm),P04391,0.4136,1069.7521,49.27625102639296,159.6254
+Ornithine carbamoyltransferase (arm),P06960,0.4136,1069.7521,49.27625102639296,159.6254
+Phosphoribosylglycinamide formyltransferase (No1),P08179,0.0141,132.3036,8.1571275,1.9584
+Phenylalanine transaminase (arm),P00509,0.2353,404.5081,32.654065789473684,1.8152
+Phenylalanine transaminase (arm),P0AB80,0.1726,1372.4563,33.607326865671645,1.2496
+Methionine adenosyltransferase (No1),P0A817,0.86,88.8785,20.259944378698226,10.4742
+1-Deoxy-D-xylulose kinase (No1),P09099,0.4351,120.1307,7.33904213836478,1.0766
+Acetylornithine transaminase (arm),P22256,0.1777,335.7137,24.6308006006006,1.2496
+Acetylornithine transaminase (arm),P50457,0.1777,335.7137,24.6308006006006,1.2496
+Porphobilinogen synthase (No1),P0ACB2,0.1696,36.753,3.46366472303207,1.4882
+Phosphopantothenate-cysteine ligase (No1),P0ABQ0,0.015,155.1646,7.955154252199414,2.4019
+Phosphoribosylformylglycinamidine synthase (No1),P15254,0.9076,23.2052,5.585902923976608,13.3406
+Phosphoserine transaminase (No1),P23721,0.4346,194.8311,12.855180416666666,5.1434
+Adenylate cyclase (No1),P00936,0.4654,26.9802,4.382269387755102,2.3929
+Glyceraldehyde-3-phosphate dehydrogenase (No1),P0A9B2,0.3092,204.1118,28.014574486803518,11.9315
+Hexokinase (D-glucose:ATP) (No1),P0A6V8,0.0723,32.3098,4.46706328358209,2.714
+Phosphogluconate dehydrogenase (No1),P00350,2.1384,51.2634,10.90015218658892,7.5384
+Glucose 6-phosphate dehydrogenase (No1),P0AC53,0.1197,114.032,4.783908187134503,1.4882
+Carbamoyl-phosphate synthase (glutamine-hydrolysing) (No1),P0A6F1,0.0808,141.9533,10.507480547112461,7.6796
+Carbamoyl-phosphate synthase (glutamine-hydrolysing) (No1),P00968,0.0808,141.9533,10.507480547112461,7.6796
+Glutamate 5-kinase (No1),P0A7B5,0.5268,167.9979,12.4712,2.7099
+NADH dehydrogenase (ubiquinone-8 ) (arm),P00393,0.1196,206.8358,15.684690379008746,33.4991
+Maltodextrin phosphorylase (maltoheptaose) (No1),P00490,0.118,50.0335,4.987047076923077,1.6835
+Phosphoserine phosphatase (L-serine) (No1),P0AGB0,0.3077,353.0559,36.04927652733119,10.7375
+Adenylyl-sulfate kinase (No1),P0A6J1,0.0819,2469.9997,124.28425531914894,48.1938
+Cystathionine b-lyase (arm),P06721,0.096,71.0923,5.231045954692557,8.7833
+Cystathionine b-lyase (arm),P23256,0.096,71.0923,5.231045954692557,8.7833
+O-succinylhomoserine lyase (L-cysteine) (No1),P00935,0.561,28.1011,3.0122712460063896,1.4882
+Succinate-semialdehyde dehydrogenase (NADP) (arm),P76149,0.1945,107.5991,11.262557522123894,1.4882
+(S)-alpha-hydroxyglutarate dehydrogenase (No1),P0A9T0,0.073,25.0724,4.143322514619883,1.4882
+Maltodextrin phosphorylase (maltohexaose) (No1),P00490,0.118,50.0335,4.987047076923077,1.6835
+Fatty-acid-CoA ligase (hexadecanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (hexadecanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (octadecanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (octadecanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+GTP cyclohydrolase I (No1),P0A6T5,0.0047,52.7809,2.646149848024316,0.5153
+ATP synthase (four protons for one ATP) (periplasm) (arm),P0ABB0,0.0376,83.4943,17.227869794721407,28.3431
+ATP synthase (four protons for one ATP) (periplasm) (arm),P0ABB4,0.0376,83.4943,17.227869794721407,28.3431
+L-arginine transport via ABC system (periplasm) (arm),P0AAF6,0.2417,95.6304,6.97249970845481,6.6637
+Guanylate kinase (GMP:ATP) (No1),P60546,0.0922,700.7903,66.00422573099415,200.967
+Dihydrofolate synthase (No1),P08192,0.3084,30.6017,4.395862611275964,1.8074
+Choline transport via ABC system (periplasm) (No1),P33360,0.2417,95.6304,6.97249970845481,6.6637
+N-acetylglucosamine kinase (No1),P75959,0.0229,121.8617,7.96441433447099,5.6822
+Methionine synthase (arm),P25665,0.0832,25.1375,2.6463128279883383,2.0093
+Phosphoribosylaminoimidazolesuccinocarboxamide synthase (No1),P0A7D7,0.0438,126.326,13.696475595238095,13.7741
+Copper (Cu +1) ABC transporter (periplasm) (No1),Q59385,1.0303,69.5531,7.877935882352941,4.2453
+Mercury (Hg+2) ABC transporter (periplasm) (No1),P37617,0.8586,28.186,7.3574117647058825,12.0437
+Ribonucleoside-diphosphate reductase (CDP) (glutaredoxin) (arm),P39452,0.1335,170.7624,20.497913702623908,3.5997
+Ribonucleoside-diphosphate reductase (CDP) (glutaredoxin) (arm),P37146,0.1335,170.7624,20.497913702623908,3.5997
+Ribonucleoside-diphosphate reductase (ADP) (glutaredoxin) (arm),P39452,0.4622,138.5594,16.593620408163265,2.9875
+Ribonucleoside-diphosphate reductase (ADP) (glutaredoxin) (arm),P37146,0.4622,138.5594,16.593620408163265,2.9875
+Ribonucleoside-diphosphate reductase (GDP) (glutaredoxin) (arm),P39452,0.1139,92.3125,11.603969970845482,1.4882
+Ribonucleoside-diphosphate reductase (GDP) (glutaredoxin) (arm),P37146,0.1139,92.3125,11.603969970845482,1.4882
+Fatty-acid-CoA ligase (octanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (octanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (hexanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (hexanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (decanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (decanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (dodecanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (dodecanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (tetradecanoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (tetradecanoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Copper (Cu+2) ABC transporter (periplasm) (No1),P37617,0.8586,28.186,7.3574117647058825,12.0437
+Cobalt (Co+2) ABC transporter (periplasm) (No1),P37617,0.8586,28.186,7.3574117647058825,12.0437
+Nickle (Ni+2) ABC transporter (periplasm) (No1),P37617,0.8586,28.186,7.3574117647058825,12.0437
+Homocysteine Methyltransferase (No1),Q47690,0.0459,97.1429,7.916022957198444,7.0039
+Formaldehyde dehydrogenase (No1),P25437,0.2728,104.8278,14.91245918367347,66.1717
+Glycine betaine transport via ABC system (periplasm) (arm),P33360,0.2417,95.6304,6.97249970845481,6.6637
+Inorganic triphosphatase (arm),P0AFL6,0.0254,91.9192,5.4163490506329115,0.2706
+Gluconokinase (arm),P46859,0.015,487.5706,21.850736496350365,5.3988
+Gluconokinase (arm),P39208,0.015,487.5706,21.850736496350365,5.3988
+Hydroxymethylbilane synthase (No1),P06983,0.0316,35.9755,2.2567982142857144,1.4882
+"Zinc (Zn+2) ABC transporter, efflux (periplasm) (No1)",P37617,0.8586,28.186,7.3574117647058825,12.0437
+Histidinol-phosphate transaminase (No1),P06986,0.1032,172.8866,5.754054572271387,0.7463
+L-threonine deaminase (arm),P04968,0.504,103.972,10.27555029239766,22.3701
+L-threonine deaminase (arm),P0AGF6,0.504,103.972,10.27555029239766,22.3701
+Nicotinic acid mononucleotide pyrophosphorylase (No1),P18133,15.3008,15.3008,15.3008,15.3008
+Ribonucleoside-diphosphate reductase (GDP) (arm),P00452,0.1139,92.3125,11.603969970845482,1.4882
+Ribonucleoside-diphosphate reductase (GDP) (arm),P69924,0.1139,92.3125,11.603969970845482,1.4882
+Dihydrofolate reductase (arm),P0ABQ4,0.0161,543.331,21.423991505791506,0.1293
+Phosphoribosylanthranilate isomerase (irreversible) (No1),P00909,0.3055,252.3584,24.524970068027212,1.9695
+Tyrosine transaminase (arm),P04693,0.2258,365.8103,25.148625514403292,1.2496
+Tyrosine transaminase (arm),P00509,0.2353,404.5081,32.654065789473684,1.8152
+Tyrosine transaminase (arm),P0AB80,0.1726,1372.4563,33.607326865671645,1.2496
+L-allo-Threonine Aldolase (arm),P75823,0.2067,85.7364,8.247939221556885,18.3553
+Erythrose 4-phosphate dehydrogenase (arm),P0A9B2,0.3092,204.1118,28.014574486803518,11.9315
+Pyruvate dehydrogenase (No1),P06959,0.1823,399.7592,33.366501179941004,1.2496
+Pyruvate dehydrogenase (No1),P0A9P0,0.3471,374.1807,32.66308746355685,25.7417
+Pyruvate dehydrogenase (No1),P0AFG8,0.2672,234.6116,17.69156443148688,1.2496
+Deoxyadenylate kinase (No1),P69441,0.013,560.9395,32.45506326530612,25.1469
+DUTP diphosphatase (arm),P06968,0.0253,48.076,9.76824375,48.076
+DUTP diphosphatase (arm),P52006,0.0135,191.0505,16.665214285714285,0.0293
+2-dehydropantoate 2-reductase (arm),P0A9J4,0.0484,245.9855,20.830303215434085,11.5612
+Purine-nucleoside phosphorylase (Deoxyguanosine) (arm),P45563,0.0442,717.2721,29.9427734375,1.2424
+Purine-nucleoside phosphorylase (Deoxyguanosine) (arm),P0ABP8,0.0442,717.2721,29.9427734375,1.2424
+Adenosylmethionine-8-amino-7-oxononanoate transaminase (No1),P12995,0.4116,58.2499,9.340491764705883,13.9815
+Glutamine synthetase (No1),P0A9C5,1.2496,3052.8563,134.63587346938775,1.2496
+Glutathione synthetase (No1),P04425,0.0363,66.1295,6.448374041297935,10.6363
+"3',5'-cyclic-nucleotide phosphodiesterase (arm)",P0AEW4,0.0397,126.3554,5.839536686390533,2.0196
+Aldose reductase (methylglyoxal) (arm),Q46851,0.0205,232.2957,23.41824072847682,158.0489
+Maltodextrin phosphorylase (maltopentaose) (No1),P00490,0.118,50.0335,4.987047076923077,1.6835
+Cadmium (Cd+2) ABC transporter (periplasm) (No1),P37617,0.8586,28.186,7.3574117647058825,12.0437
+Adenosine kinase (No1),P69441,0.013,560.9395,32.45506326530612,25.1469
+Succinyl-CoA synthetase (ADP-forming) (No1),P0AGE9,0.0337,293.1869,14.202085628742514,3.1115
+Succinyl-CoA synthetase (ADP-forming) (No1),P0A836,0.0337,293.1869,14.202085628742514,3.1115
+Nucleoside-triphosphatase (ATP) (arm),P39286,1.9267,1.9267,1.9267,1.9267
+Galactokinase (No1),P0A6T3,0.0525,111.9382,5.699493721973094,1.857
+Histidinol-phosphatase (No1),P06987,0.869,32.1366,9.800054545454545,1.7085
+Isopentenyl-diphosphate D-isomerase (No1),Q46822,0.0041,201.5537,8.250084818481849,14.3808
+Uroporphyrinogen methyltransferase (No1),P0AEA8,0.0219,34.6031,2.4859776119402985,0.439
+Fatty-acid-CoA ligase (octadecenoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (octadecenoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+CDP-diacylglycerol synthetase (n-C16:0) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+CDP-diacylglycerol synthetase (n-C16:1) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+CDP-diacylglycerol synthetase (n-C18:1) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+Phosphatidylglycerol synthase (n-C18:0) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+Phosphoglycerate dehydrogenase (No1),P0A9T0,0.073,25.0724,4.143322514619883,1.4882
+Fatty-acid-CoA ligase (tetradecenoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Fatty-acid-CoA ligase (tetradecenoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (hexadecenoate transport via vectoral Co-A coupling) (arm),P69451,0.3009,116.4361,16.637979300291544,5.5018
+Fatty-acid-CoA ligase (hexadecenoate transport via vectoral Co-A coupling) (arm),P38135,0.1285,252.8262,19.56204255319149,64.5128
+Adenylsuccinate lyase (No1),P0AB89,0.0878,49.3488,7.144675588235294,18.941
+D-serine deaminase (No1),P00926,0.0569,51.8491,2.100780349344978,1.4882
+Phosphofructokinase (arm),P0A796,0.7196,77.6619,11.52077026239067,6.8492
+Phosphofructokinase (arm),P06999,0.7196,77.6619,11.52077026239067,6.8492
+Pyridoxine 5'-phosphate oxidase (No1),P0AFI7,0.0477,1797.3362,78.76223250773994,0.4472
+2-Octaprenyl-6-methoxy-benzoquinol methylase (No1),P0A887,0.0749,61.1462,7.933956481481482,1.4882
+Phosphoglycerate mutase (arm),P62707,0.0326,394.1145,19.63198198757764,3.8707
+Triose-phosphate isomerase (No1),P0A858,2.1054,2107.5586,146.89300439882697,742.1712
+Glycerol-3-phosphate acyltransferase (C14:1) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+Glycerol-3-phosphate acyltransferase (C18:1) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+CDP-diacylglycerol synthetase (n-C14:0) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+CDP-diacylglycerol synthetase (n-C18:0) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+CDP-diacylglycerol synthetase (n-C14:1) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+Phosphatidylglycerol synthase (n-C14:1) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+Pyridoxamine kinase (No1),P40191,0.1284,205.3623,16.06322393442623,7.6802
+Succinate dehydrogenase (irreversible) (No1),P0AC41,0.039,46.7797,3.4223014792899407,6.5077
+Succinate dehydrogenase (irreversible) (No1),P07014,0.039,46.7797,3.4223014792899407,6.5077
+Asparagine synthase (glutamine-hydrolysing) (No1),P22106,0.3864,102.2704,6.900088888888889,1.4939
+Glycerol-3-phosphate acyltransferase (C14:0) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+Glycerol-3-phosphate acyltransferase (C16:0) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+Glycerol-3-phosphate acyltransferase (C16:1) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+Phosphatidylglycerol synthase (n-C16:0) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+Phosphatidylglycerol synthase (n-C16:1) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+Phosphatidylglycerol synthase (n-C14:0) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+Phosphatidylglycerol synthase (n-C18:1) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+Glycerol-3-phosphate acyltransferase (C18:0) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+CDP-diacylglycerol synthetase (n-C12:0) (No1),P0ABG1,0.0422,448.5171,21.303276023391813,1.9235
+Glycerol-3-phosphate acyltransferase (C12:0) (No1),P0A7A7,0.2077,46.2299,6.293349562682216,2.4246
+Phosphatidylglycerol synthase (n-C12:0) (No1),P0ABF8,0.3142,224.4412,20.023620760233918,116.5787
+S-adenosylmethione:2-demthylmenaquinole methyltransferase (menaquinone 8) (No1),P0A887,0.0749,61.1462,7.933956481481482,1.4882
+Threonine aldolase (arm),P75823,0.2067,85.7364,8.247939221556885,18.3553
+Formate dehydrogenase (quinone-8) (periplasm) (arm),P32176,0.0292,20.2844,3.2182321285140563,1.1393
+Formate Dehydrogenase (menaquinone-8) (periplasm) (arm),P32176,0.0292,20.2844,3.2182321285140563,1.1393
+Biotin synthase (No1),P12996,0.0063,103.5266,3.9326809885931557,0.4138
+Lipoate synthase (No1),P60716,0.0433,55.1799,3.8347139880952383,1.4882
+Lipoate-ATP adenylate transferase (No1),P32099,0.0663,137.0511,7.4646692073170735,0.9437
+Pyruvate kinase(4) (No1),P21599,1.0423,196.9557,13.709659064327486,13.5766
+NADH hydratase (No1),P0A9B2,1.025,207.7405,48.47763548387097,7.5828
+Ap4A synthetase (No1),P0A8N5,0.0106,98.5285,7.102241982507288,2.6143
+Aldose reductase (methylglyoxal) (nadh) (No1),P77256,0.0199,424.8383,25.577162848297213,1.0527
+Pyruvate kinase(2) (No1),P21599,1.0423,196.9557,13.709659064327486,13.5766
+Pyruvate kinase(3) (No1),P21599,1.0423,196.9557,13.709659064327486,13.5766
+RE2954 (No1),P21599,1.0423,196.9557,13.709659064327486,13.5766
+(R)-alpha-hydroxyglutarate dehydrogenase (No1),P0A9T0,0.073,25.0724,4.143322514619883,1.4882
+Cysteine transaminase (No1),P00509,0.2353,404.5081,32.654065789473684,1.8152
+4-Hydroxy-L-threonine kinase (No1),P00547,0.0674,62.0165,6.665857232704402,5.966
+"Lacaldehyde reductase (S-propane-1,2-diol forming) (No1)",P75691,6.4269,6.4269,6.4269,6.4269
+Proline dehydrogenase (q8) (No1),P09546,0.0829,217.8857,14.1909878125,41.2828
+3-hydroxyadipyl-CoA dehydrogenase (NAD+) (No1),P76083,0.0253,50.3075,5.351697891566265,1.4882
+Octanoate non-lipoylated apo domain ligase (No1),P32099,0.0663,137.0511,7.4646692073170735,0.9437
+Nucleoside-diphosphate kinase (ATP:dGDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:dGDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Nucleoside-diphosphate kinase (ATP:dUDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:dUDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Nucleoside-diphosphate kinase (ATP:dADP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:dADP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Dihydroorotase (reversible) (No1),P05020,0.1911,2280.6112,77.1208431085044,50.8146
+Isocitrate dehydrogenase (NADP) (reversible) (No1),P08200,6.9923,6.9923,6.9923,6.9923
+Acetaldehyde dehydrogenase (acetylating) (reversible) (arm),P0A9Q7,0.8556,1213.9144,120.21673801169591,458.7321
+L-alanine transaminase (reversible) (arm),P0A959,0.3138,495.5525,16.593186842105265,1.2496
+L-alanine transaminase (reversible) (arm),P77434,0.3138,495.5525,16.593186842105265,1.2496
+Aspartate transaminase (reversible) (arm),P00509,0.1856,182.4893,8.515519005847953,1.7494
+Isoleucine transaminase (reversible) (No1),P0AB80,0.1235,212.2721,7.673351940298508,8.9859
+Orotate phosphoribosyltransferase (reversible) (No1),P0A7E3,0.0148,91.0088,7.155277581120944,1.4882
+Enolase (reversible) (No1),P0A6P9,1.011,75.8228,12.639941690962099,10.4654
+Fructose-bisphosphate aldolase (reversible) (arm),P0AB71,0.0457,25.9026,5.068995043731778,14.1546
+Fructose-bisphosphate aldolase (reversible) (arm),P0A991,0.0457,25.9026,5.068995043731778,14.1546
+HCO3 equilibration reaction (reversible) (arm),P61517,0.0085,437741.4246,2659.3947852507376,638.5725
+HCO3 equilibration reaction (reversible) (arm),P0ABE9,0.0085,437741.4246,2659.3947852507376,638.5725
+Phosphoglycerate kinase (reversible) (No1),P0A799,2.0498,118.8473,20.674819005847954,13.8539
+Ribulose 5-phosphate 3-epimerase (reversible) (No1),P0AG07,0.7176,36659.9867,991.1025135294118,199.2753
+Transaldolase (reversible) (arm),P0A870,0.0773,65.0075,10.197687833827894,24.213
+Transaldolase (reversible) (arm),P0A867,0.0773,65.0075,10.197687833827894,24.213
+Purine-nucleoside phosphorylase (Adenosine) (reversible) (No1),P0ABP8,0.1236,439.9124,25.283843125,6.501
+Purine-nucleoside phosphorylase (Guanosine) (reversible) (arm),P45563,0.1236,439.9124,25.283843125,6.501
+Purine-nucleoside phosphorylase (Guanosine) (reversible) (arm),P0ABP8,0.1236,439.9124,25.283843125,6.501
+Purine-nucleoside phosphorylase (Inosine) (reversible) (arm),P45563,0.1236,439.9124,25.283843125,6.501
+Purine-nucleoside phosphorylase (Inosine) (reversible) (arm),P0ABP8,0.1236,439.9124,25.283843125,6.501
+Purine-nucleoside phosphorylase (Xanthosine) (reversible) (No1),P45563,0.1236,439.9124,25.283843125,6.501
+Alcohol dehydrogenase (ethanol) (reversible) (arm),P0A9Q7,0.8556,1213.9144,119.53180760233919,458.7321
+Alcohol dehydrogenase (ethanol) (reversible) (arm),P39451,0.8556,1213.9144,119.53180760233919,458.7321
+3-isopropylmalate dehydratase (reversible) (No1),P30126,0.2601,295.4556,19.150610787172013,1.2496
+3-isopropylmalate dehydratase (reversible) (No1),P0A6A6,0.2601,295.4556,19.150610787172013,1.2496
+Adentylate kinase (ITP) (reversible) (No1),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Malate dehydrogenase (reversible) (No1),P61889,0.8082,4650.1686,236.43920699708454,11.1618
+Fumarase (reversible) (arm),P0AC33,0.1735,55.7157,7.454314285714286,1.4882
+Fumarase (reversible) (arm),P14407,0.1735,55.7157,7.454314285714286,1.4882
+Fumarase (reversible) (arm),P05042,0.1735,55.7157,7.454314285714286,1.4882
+"Glycine hydroxymethyltransferase, reversible (reversible) (No1)",P0A825,0.027,71.7474,7.795244023323615,1.2496
+Alcohol dehydrogenase (glycerol) (reversible) (arm),P39451,1.5975,423.9412,48.159901461988305,153.78
+Alcohol dehydrogenase (glycerol) (reversible) (arm),P0A9Q7,1.5975,423.9412,48.159901461988305,153.78
+Nucleoside-diphosphate kinase (ATP:dCDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:dCDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Adenylate kinase (reversible) (No1),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:UDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:UDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Nucleoside-diphosphate kinase (ATP:CDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Nucleoside-diphosphate kinase (ATP:CDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:dTDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:dTDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Deoxyguanylate kinase (dGMP:ATP) (reversible) (No1),P60546,0.131,664.2031,65.49216432748538,201.2028
+Nucleoside-diphosphate kinase (ATP:GDP) (reversible) (arm),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Nucleoside-diphosphate kinase (ATP:GDP) (reversible) (arm),P0A763,0.0284,529.7716,51.85850709876543,13.8054
+Aspartate-semialdehyde dehydrogenase (reversible) (No1),P0A9Q9,0.3264,246.4633,23.55897026239067,120.0951
+Acetylornithine transaminase (reversible) (arm),P18335,1.0394,67.6138,7.422510979228487,2.1357
+Glyceraldehyde-3-phosphate dehydrogenase (reversible) (No1),P0A9B2,1.025,207.7405,48.47763548387097,7.5828
+"Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase (reversible) (No1)",P0AB71,0.0457,25.9026,5.068995043731778,14.1546
+Adentylate kinase (GTP) (reversible) (No1),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r) (reversible) (arm),P76503,0.0089,109.996,6.978506927710844,0.2042
+Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r) (reversible) (arm),P21151,0.0089,109.996,6.978506927710844,0.2042
+Homoserine dehydrogenase (NADPH) (reversible) (arm),P00562,0.1208,566.4244,26.644138011695908,8.7805
+Homoserine dehydrogenase (NADPH) (reversible) (arm),P00561,0.1208,566.4244,26.644138011695908,8.7805
+ATP synthase (four protons for one ATP) (periplasm) (reversible) (arm),P0ABB0,0.2838,25.8597,3.047942274052478,5.7676
+ATP synthase (four protons for one ATP) (periplasm) (reversible) (arm),P0ABB4,0.2838,25.8597,3.047942274052478,5.7676
+Guanylate kinase (GMP:ATP) (reversible) (No1),P60546,0.0524,399.789,44.042354970760236,134.0031
+Acetyl-CoA C-acyltransferase (dodecanoyl-CoA) (r) (reversible) (arm),P76503,0.0223,104.0863,7.1534569277108435,1.0309
+Acetyl-CoA C-acyltransferase (dodecanoyl-CoA) (r) (reversible) (arm),P21151,0.0223,104.0863,7.1534569277108435,1.0309
+Formaldehyde dehydrogenase (reversible) (No1),P25437,0.1706,300.054,36.926121865889215,186.7792
+Glutamate dehydrogenase (NADP) (reversible) (arm),P00370,0.3694,153.124,22.332645180722892,1.2496
+Tyrosine transaminase (reversible) (arm),P04693,0.4006,164.4922,13.126837448559671,0.6797
+Tyrosine transaminase (reversible) (arm),P00509,0.2164,103.5135,8.646598235294118,4.2614
+Erythrose 4-phosphate dehydrogenase (reversible) (arm),P0A9B2,1.025,207.7405,48.47763548387097,7.5828
+Deoxyadenylate kinase (reversible) (No1),P69441,0.0167,754.9952,15.120175602409638,1.3128
+Adenosylmethionine-8-amino-7-oxononanoate transaminase (reversible) (No1),P12995,1.0271,80.6431,11.712194117647059,18.447
+Succinyl-CoA synthetase (ADP-forming) (reversible) (No1),P0AGE9,0.0082,486.3004,19.780476646706585,0.9018
+Succinyl-CoA synthetase (ADP-forming) (reversible) (No1),P0A836,0.0082,486.3004,19.780476646706585,0.9018
+Isopentenyl-diphosphate D-isomerase (reversible) (No1),Q46822,0.0382,162.2368,9.82557095709571,1.4882
+Ribose-5-phosphate isomerase (reversible) (arm),P0A7Z0,0.0279,388.2283,25.87361403508772,38.7271
+Ribose-5-phosphate isomerase (reversible) (arm),P37351,0.0279,388.2283,25.87361403508772,38.7271
+3-hydroxyadipyl-CoA dehydrogenase (NAD+) (reversible) (No1),P76083,0.0199,424.8383,25.577162848297213,1.0527
