@@ -16,6 +16,12 @@ num_r = size(ecModel_batch.S,2);
 % finding the available kcats in the model
 [inx_Kcats,inx_cmplx] = nonZero_Kcats(ecModel_batch);
 
+original_k = zeros(size(inx_Kcats,1),1);
+
+for i = 1:size(inx_Kcats,1)
+	original_k(i) = ecModel_batch.S(inx_Kcats(i,1),inx_Kcats(i,2));
+end
+
 % mets to engineer
 mets_to_go = xlsread('Metabolites.xlsx','Yeast','B2:B50');
 
@@ -177,14 +183,6 @@ for met = 1:length(mets_to_go)
         end
 
         % v' and v for the magnitude of new Ks   // num_r + 2*size(inx_Kcats,1)
-
-        original_k = zeros(size(inx_Kcats,1),1);
-
-        for i = 1:size(inx_Kcats,1)
-            original_k(i) = ecModel.S(inx_Kcats(i,1),inx_Kcats(i,2));
-        end
-
-
         % small changes in K
         M = 10^6;
         beta = 10^(-8);
